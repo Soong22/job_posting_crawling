@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB5nYYX_q2HDeNTouXLU0tAJHk_s3t9jJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886211306419</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.soong.jobcrawling</string>
+	<key>PROJECT_ID</key>
+	<string>jobcrwaling</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jobcrwaling.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886211306419:ios:3e05262df6dbc80a60a1c6</string>
+</dict>
+</plist>
